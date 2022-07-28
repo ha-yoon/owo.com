@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>LOGIN</title>
+  <title>Hello~ ha-yooni Repository 에 오신 것을 환영합니다~♥</title>
 </head>
 <body>
   <form method="post" action="check_login.php" class="loginForm">
@@ -17,6 +18,7 @@
       LOGIN
     </button>
     <div class="bottomText">
+      <a href="/member/member.php">회원가입 하시겠습니까?</a>
       <a href="#">Sign up</a>
     </div>
   </form>
